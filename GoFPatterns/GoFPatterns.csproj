@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <Folder Include="Act\State\" />
-    <Folder Include="Generate\" />
     <Folder Include="Struct\" />
     <Folder Include="Act\" />
   </ItemGroup>
