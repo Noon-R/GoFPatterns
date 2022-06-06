@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <Folder Include="Act\State\" />
-    <Folder Include="Struct\" />
+    <Folder Include="Singleton\" />
     <Folder Include="Act\" />
   </ItemGroup>
 
